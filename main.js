@@ -90,7 +90,7 @@ document.getElementById('apply-btn').addEventListener('click', function(){
         total.innerText = totalPrice;
     }
    promoCode.value = '';
-})
+});
 
 
 
